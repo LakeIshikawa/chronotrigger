@@ -5,4 +5,4 @@ loadCharacter('chrono', 'chars/chrono.json')
 playintro = true
 
 -- First room of the game
-changeRoom('maps/room.tmx')
+changeRoom('packed/maps/overworld_present.tmx')
